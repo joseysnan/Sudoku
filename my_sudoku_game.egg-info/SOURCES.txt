@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+my_sudoku_game.egg-info/PKG-INFO
+my_sudoku_game.egg-info/SOURCES.txt
+my_sudoku_game.egg-info/dependency_links.txt
+my_sudoku_game.egg-info/entry_points.txt
+my_sudoku_game.egg-info/top_level.txt
